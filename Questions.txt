@@ -1,0 +1,16 @@
+1. Which Burger King has delivery option?
+2. How good is City Tavern? (gets answer from reviews)
+3. Where is Matts chicago dog located?
+4. what is the price range of papa johns pizza?
+5. Does Soho Bistro serves alcohol?
+6. Does hooters has home delivery option?
+7. How is the aumbiance in Dominos Pizza?
+8. which is the best and recommended dish in Cajun Queen?
+9. How is the parking in Simmons Restaurant?
+10. Why is burger king good? (Irrelevant answer)
+11. What does The Capital Grille serve?
+12. Does Lotus Buffet appear clean? (kind of related answer)
+13. How is the service in China Queen Buffett?
+14. What is the rating of wendy's
+15. How is the shrimp in Cajun Queen? 
+16. How is the staff at Gills kitchen?
